@@ -13,6 +13,10 @@ body {
   color: white;
 }
 
+.danger {
+  color: #f60057;
+}
+
 .intro {
   height: 100vh;
 }
