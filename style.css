@@ -631,3 +631,12 @@ a:link {
     width: 90%;
   }
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
